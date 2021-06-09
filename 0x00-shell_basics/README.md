@@ -8,3 +8,4 @@
 * mkdir /tmp/holberton: Command to create a directory named `holberon` in `/tmp/` directory
 * mv /tmp/betty /tmp/holberton: command to move a file from one folder to another
 rm: command to delete a file
+rmdir: command to delete a directory
