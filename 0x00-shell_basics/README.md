@@ -16,3 +16,4 @@
 * Copying html fils
 * Movig files
 * Cleanning emacs files
+* Creating tree directories
