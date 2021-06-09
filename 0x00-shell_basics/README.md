@@ -14,3 +14,4 @@
 * ** file filepath**: command to print the file type
 * **ln -s**: command to create a symbolic link
 * Copying html fils
+* Movig files
