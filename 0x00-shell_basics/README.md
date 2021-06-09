@@ -13,3 +13,4 @@
 * **ls -la . .. /boot**: Command to list all items including hidden files and /boot directory
 * ** file filepath**: command to print the file type
 * **ln -s**: command to create a symbolic link
+* Copying html fils
