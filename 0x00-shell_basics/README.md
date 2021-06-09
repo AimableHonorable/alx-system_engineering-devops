@@ -18,3 +18,4 @@
 * Cleanning emacs files
 * Creating tree directories
 * **ls -map**: Command to list items separated by commas
+* Created a magic file
