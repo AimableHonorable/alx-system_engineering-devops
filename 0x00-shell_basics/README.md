@@ -15,3 +15,4 @@
 * **ln -s**: command to create a symbolic link
 * Copying html fils
 * Movig files
+* Cleanning emacs files
