@@ -1,1 +1,1 @@
-### First Shell basics task on ALX SE Program
+### First Shell basics project on ALX SE Program
