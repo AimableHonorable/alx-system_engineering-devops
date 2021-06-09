@@ -7,3 +7,4 @@
 * ls -na: Command to list all content including hidden files in a long format, with user and group IDs displayed
 * mkdir /tmp/holberton: Command to create a directory named `holberon` in `/tmp/` directory
 * mv /tmp/betty /tmp/holberton: command to move a file from one folder to another
+rm: command to delete a file
