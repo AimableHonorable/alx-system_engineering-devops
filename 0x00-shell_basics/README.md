@@ -11,3 +11,4 @@
 * **rmdir**: command to delete a directory
 * **cd -**: command to change directory to the previous one
 * **ls -la . .. /boot**: Command to list all items including hidden files and /boot directory
+* ** file filepath**: command to print the file type
