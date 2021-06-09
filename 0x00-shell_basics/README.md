@@ -17,3 +17,4 @@
 * Movig files
 * Cleanning emacs files
 * Creating tree directories
+* **ls -map**: Command to list items separated by commas
