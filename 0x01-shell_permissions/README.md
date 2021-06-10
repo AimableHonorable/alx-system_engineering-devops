@@ -12,3 +12,4 @@
 * Look in the mirror
 * give permission to all subdirectories
 * Creating a directory and give it the permission at the same time
+* Change group owner of a file
