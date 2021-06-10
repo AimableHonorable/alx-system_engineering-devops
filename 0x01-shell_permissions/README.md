@@ -9,3 +9,4 @@
 * Give execution permission to everyone
 * Give all permissions to others only
 * John Doe
+* Look in the mirror
