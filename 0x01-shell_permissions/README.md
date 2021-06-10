@@ -10,3 +10,4 @@
 * Give all permissions to others only
 * John Doe
 * Look in the mirror
+* give permission to all subdirectories
