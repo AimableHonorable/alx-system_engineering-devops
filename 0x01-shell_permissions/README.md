@@ -1,0 +1,2 @@
+## SCRIPTS FOR SHELL PERMISSIONS TASK
+* Script to switch
