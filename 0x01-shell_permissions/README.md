@@ -8,3 +8,4 @@
 * Give execution permission to the group
 * Give execution permission to everyone
 * Give all permissions to others only
+* John Doe
