@@ -5,3 +5,4 @@
 * Script to change the owner of a file
 * Script to create empty file
 * Script to give execution permission
+* Give execution permission to the group
