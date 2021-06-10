@@ -14,3 +14,4 @@
 * Creating a directory and give it the permission at the same time
 * Change group owner of a file
 * Change group and owner
+* Symbolic link permission
