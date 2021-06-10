@@ -11,3 +11,4 @@
 * John Doe
 * Look in the mirror
 * give permission to all subdirectories
+* Creating a directory and give it the permission at the same time
