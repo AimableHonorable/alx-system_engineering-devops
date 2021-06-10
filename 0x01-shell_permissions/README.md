@@ -6,3 +6,4 @@
 * Script to create empty file
 * Script to give execution permission
 * Give execution permission to the group
+* Give execution permission to everyone
