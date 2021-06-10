@@ -4,3 +4,4 @@
 * Script to print all groups the current user belongs to
 * Script to change the owner of a file
 * Script to create empty file
+* Script to give execution permission
