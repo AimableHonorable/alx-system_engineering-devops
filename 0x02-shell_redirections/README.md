@@ -10,3 +10,4 @@
 * Write command result in an external file
 * Duplicate last line
 * Delete only files of a specific type
+* Counting number of directories and subdirectories that are in a working directory
