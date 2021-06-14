@@ -9,3 +9,4 @@
 * Create file named with special characterts and with content in it
 * Write command result in an external file
 * Duplicate last line
+* Delete only files of a specific type
