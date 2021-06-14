@@ -4,3 +4,4 @@
 * Print confused smiley
 * Print whole content of a file
 * Display 10 last  lines of a file
+* Display 10 first lines of a file
