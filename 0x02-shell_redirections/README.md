@@ -11,3 +11,4 @@
 * Duplicate last line
 * Delete only files of a specific type
 * Counting number of directories and subdirectories that are in a working directory
+* Sorting files according to modification date(newest first)
