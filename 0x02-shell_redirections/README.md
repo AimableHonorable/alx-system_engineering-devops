@@ -2,3 +2,4 @@
 
 * Print hello world
 * Print confused smiley
+* Print whole content of a file
