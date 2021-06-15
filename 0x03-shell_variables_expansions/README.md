@@ -6,4 +6,5 @@
 * Script to count number of directories that are in a path
 * Script to print environment variables
 * Script to print all local variables including environment variables and functions
-* Script to crate a variable
+* Script to crate a  local variable
+* Script to create global variable
