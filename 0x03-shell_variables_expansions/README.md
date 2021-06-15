@@ -17,3 +17,4 @@
 * Script to convert number from decimal to hexadecimal
 * Script to encode and decode text with rot13 encryption
 * Script to print odd lines
+* Script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
