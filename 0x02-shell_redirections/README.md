@@ -14,3 +14,4 @@
 * Sorting files according to modification date(newest first)
 * display words that only existed once in a file
 * Finding lines containing a word
+* Display the number of lines that contain the pattern “bin” in the file /etc/passwd
