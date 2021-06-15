@@ -13,3 +13,4 @@
 * Script to print variable exponents
 * Script to convert from binary to decimal
 * Script to combine letters except "oo"
+* Script to put only two float numbers after dot
