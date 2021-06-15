@@ -20,3 +20,4 @@
 * Display all lines of the file /etc/ssh/sshd_config starting with a letter
 * Replacing texts
 * Delete letter c from the file
+* Reverse a string
