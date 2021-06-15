@@ -14,3 +14,4 @@
 * Script to convert from binary to decimal
 * Script to combine letters except "oo"
 * Script to put only two float numbers after dot
+* Script to convert number from decimal to hexadecimal
