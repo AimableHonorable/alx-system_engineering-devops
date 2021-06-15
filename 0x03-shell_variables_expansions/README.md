@@ -10,3 +10,4 @@
 * Script to create global variable
 * Script to print a sum of a number to a variable
 * Script to divide two variables
+* Script to print variable exponents
