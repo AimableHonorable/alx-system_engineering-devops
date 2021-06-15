@@ -9,3 +9,4 @@
 * Script to crate a  local variable
 * Script to create global variable
 * Script to print a sum of a number to a variable
+* Script to divide two variables
