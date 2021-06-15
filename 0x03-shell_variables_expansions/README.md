@@ -15,3 +15,4 @@
 * Script to combine letters except "oo"
 * Script to put only two float numbers after dot
 * Script to convert number from decimal to hexadecimal
+* Script to encode and decode text with rot13 encryption
