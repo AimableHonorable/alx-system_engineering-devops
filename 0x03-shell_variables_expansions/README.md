@@ -12,3 +12,4 @@
 * Script to divide two variables
 * Script to print variable exponents
 * Script to convert from binary to decimal
+* Script to combine letters except "oo"
