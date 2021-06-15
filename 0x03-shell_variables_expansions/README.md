@@ -11,3 +11,4 @@
 * Script to print a sum of a number to a variable
 * Script to divide two variables
 * Script to print variable exponents
+* Script to convert from binary to decimal
